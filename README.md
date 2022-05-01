@@ -4,7 +4,14 @@ Hi 👋 My name is Hamsaraj Pitani
 Fullstack Developer
 -------------------
 
-Technology Enthusiast, Passionate About Learning New Technologies, Designing Great User Experience and Solving Real Business Challenges.
+• Programmer with experience of developing and optimizing web functionalities that 
+improve data retrieval and workflow efficiencies.
+• Experience in building high traffic / high performance systems with complex architectures.
+• Proficient in database model design to store and retrieve millions of records easily & 
+quickly.
+• Skilled in Software Development Life cycle to develop efficient and secure applications.
+Excellent in troubleshooting skills with an ability to engineer well researched, responsive 
+solutions.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [pitanihamsaraj@gmail.com](mailto:pitanihamsaraj@gmail.com)
