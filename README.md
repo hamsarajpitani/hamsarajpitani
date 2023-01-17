@@ -8,7 +8,7 @@ Fullstack Developer
 * Expertise in designing and building high-traffic, high-performance systems with complex architectures.
 * Proficient in designing database models that can efficiently store and retrieve large volumes of data.
 * Skilled in the software development life cycle, able to create efficient and secure applications.
-*Adept at troubleshooting, able to engineer well-researched and responsive solutions.
+* Adept at troubleshooting, able to engineer well-researched and responsive solutions.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [pitanihamsaraj@gmail.com](mailto:pitanihamsaraj@gmail.com)
